@@ -4,4 +4,4 @@ package_sets:
 - github: doudou/autoproj_daemon_tests-pkg_set
 
 layout:
-  - autoproj_daemon_tests-pkg_set
+  - autoproj_daemon_tests
