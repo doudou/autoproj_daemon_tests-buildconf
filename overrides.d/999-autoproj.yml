@@ -1,0 +1,5 @@
+---
+- autoproj_daemon_tests-pkg:
+    remote_branch: refs/pull/2/merge
+    single_branch: false
+    shallow: false
